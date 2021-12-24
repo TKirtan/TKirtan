@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Frontend Skills.
+- 🔭 I’m currently working on JAVA.
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on Community.
 - 🤔 I’m looking for help with Open-Source.

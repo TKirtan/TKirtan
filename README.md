@@ -5,6 +5,9 @@
 
 <!-- Here are some ideas to get you started: -->
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkirtan&label=Profile%20views&color=0e75b6&style=flat" alt="tkirtan" /> </p>
+
 - I’m currently working on JAVA.
 - I’m currently learning DevOps.
 - I’m looking to collaborate on Community.

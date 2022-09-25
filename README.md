@@ -23,7 +23,7 @@
   <img align="center" src="https://telegra.ph/file/470c31fc3cc5d48b3a150.png" alt="cloudskillboost" width="22px" />
 </a>
 <a href="https://linktr.ee/tkirtan" target="blank">
-  <img align="center" src="https://w7.pngwing.com/pngs/549/715/png-transparent-web-development-logo-website-web-design-symmetry-internet-thumbnail.png" alt="My Other Soicals" width="22px" />
+  <img align="center" src="https://telegra.ph/file/18a224eaa86e791eaafd7.png" alt="My Other Soicals" width="22px" />
 </a></p>
 
 

@@ -1,12 +1,8 @@
-# Hey Their, am Kirtan
+
+<h1 align="center">Hey 👋, I'm Kirtan Kushwah</h1>
+<h3 align="center">A Tech Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkirtan&label=Profile%20views&color=0e75b6&style=flat" alt="tkirtan" /> </p>
-
-- I’m currently working on JAVA.
-- I’m currently learning DevOps.
-- I’m looking to collaborate on Community.
-- I’m looking for help with Open-Source.
-- How to reach me: kirtankushwah03@gmail.com.
 
 <p align="center">I am a tech geek who is passionate about community learning, I have previously lead communities where I learned skills which included DevOps, Management, Leadership and working for Non-profit causes. I prefer to be part of real life project than working in hackathons.</p>
 

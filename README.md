@@ -8,6 +8,8 @@
 - I’m looking for help with Open-Source.
 - How to reach me: kirtankushwah03@gmail.com.
 
+<p align="center">I am a tech geek who is passionate about community learning, I have previously lead communities where I learned skills which included DevOps, Management, Leadership and working for Non-profit causes. I prefer to be part of real life project than working in hackathons.</p>
+
 ### Operating Systems :
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>

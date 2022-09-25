@@ -23,4 +23,7 @@
 ## Top Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkirtan&layout=compact&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)
 
-Tools I use :
+## Operating Systems :
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>
+<img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0957250e66d0bd9ef389ec04088ec094/red-hat-enterprise-linux.png" alt="RedHat Enterprise Linux" title="RedHat" width="40" height="40"/> </p>

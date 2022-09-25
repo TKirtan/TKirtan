@@ -21,6 +21,9 @@
   &nbsp;&nbsp;
 <a href="https://www.cloudskillsboost.google/public_profiles/ca10eedd-0557-4863-8580-fb59b61608a3" target="blank">
   <img align="center" src="https://telegra.ph/file/470c31fc3cc5d48b3a150.png" alt="cloudskillboost" width="22px" />
+</a>
+<a href="https://linktr.ee/tkirtan" target="blank">
+  <img align="center" src="https://w7.pngwing.com/pngs/549/715/png-transparent-web-development-logo-website-web-design-symmetry-internet-thumbnail.png" alt="My Other Soicals" width="22px" />
 </a></p>
 
 

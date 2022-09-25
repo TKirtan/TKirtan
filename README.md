@@ -8,15 +8,6 @@
 - I’m looking for help with Open-Source.
 - How to reach me: kirtankushwah03@gmail.com.
 
-### Kirtan's GitHub Stats
-![Kirtan's github stats](https://github-readme-stats.vercel.app/api?username=tkirtan&show_icons=true&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true) 
-
-### Github Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkirtan&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
-
-### Top Langauges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkirtan&layout=compact&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)
-
 ### Operating Systems :
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>
@@ -38,4 +29,16 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>
+
+#### Editor and IDEs
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+
+
+### Kirtan's GitHub Stats
+![Kirtan's github stats](https://github-readme-stats.vercel.app/api?username=tkirtan&show_icons=true&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true) 
+
+### Github Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkirtan&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
 

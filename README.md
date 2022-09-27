@@ -1,4 +1,4 @@
-
+[![@tkirtan's Holopin board](https://holopin.io/api/user/board?user=tkirtan)](https://holopin.io/@tkirtan)
 <h1 align="center">Hey 👋, I'm Kirtan Kushwah</h1>
 <h3 align="center">A Tech Geek</h3>
 
@@ -60,6 +60,3 @@
 
 ### Github Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tkirtan&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
-
-### Hacktoberfest
-[![@tkirtan's Holopin board](https://holopin.io/api/user/board?user=tkirtan)](https://holopin.io/@tkirtan)

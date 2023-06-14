@@ -27,7 +27,3 @@
 <a href="https://linktr.ee/tkirtan" target="blank">
   <img align="center" src="https://telegra.ph/file/18a224eaa86e791eaafd7.png" alt="My Other Soicals" width="22px" />
 </a></p>
-
-### Kirtan's GitHub Stats
-![Kirtan's github stats](https://github-readme-stats.vercel.app/api?username=tkirtan&show_icons=true&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true) 
-
